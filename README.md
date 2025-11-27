@@ -9,6 +9,7 @@
 
 ---
 
+<h4>This project analyzes the Global Superstore dataset using Excel and SQL for data transformation and Power BI for visualization, showcasing end-to-end data analytics skills applied to a real retail business scenario.</h4>
 ## Key Insights
 
 - **Total Sales:** ~2M  
