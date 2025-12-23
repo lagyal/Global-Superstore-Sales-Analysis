@@ -6,13 +6,6 @@ Leadership wants to understand <b>where revenue is coming from, which areas are 
 
 This analysis evaluates historical sales performance to identify growth drivers, profit leaks, and actionable opportunities for the business.
 
-## Business Questions
-- Which regions and cities drive the majority of revenue?
-- Are high-sales products actually profitable, or masking losses?
-- Which product sub-categories should be re-priced, optimized, or discontinued?
-- How have sales and profits trended over time, and is growth sustainable?
-- Where should leadership focus expansion vs cost control?
-
 ## Data Overview
 - Source: Global Superstore dataset (Kaggle)
 - Time Period: 2014–2017
