@@ -18,7 +18,7 @@ This analysis evaluates historical sales performance to identify growth drivers,
 ## Core Business Metrics
 <table> <tr><th>Metric</th><th>Value</th><th>Why It Matters</th></tr> <tr><td>Total Sales</td><td>~$2.0M</td><td>Overall revenue scale of the business</td></tr> <tr><td>Total Profit</td><td>~$283K</td><td>Net value generated after costs</td></tr> <tr><td>Total Quantity Sold</td><td>~37K units</td><td>Demand volume across products</td></tr> <tr><td>Average Profit</td><td>~$71K</td><td>Profit consistency across transactions</td></tr> </table>
 
-## Executive Findings
+## Findings
 ### 1. Revenue Is Concentrated in a Few Cities
 - A small number of cities (New York City, Los Angeles, Seattle) account for a disproportionate share of total sales.
 - Many cities contribute marginal revenue, increasing operational complexity without meaningful upside.
